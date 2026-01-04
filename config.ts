@@ -20,12 +20,12 @@ export function getConfig(isProduction: boolean, dir: string) {
         gameServer: {
             host: "0.0.0.0",
             port: 8001,
-            apiServerUrl: "https://api.render.com/deploy/srv-d5d70eggjchc73dh918g?key=1KJf8VL4iY0",
+            apiServerUrl: "http://survev.improved:8000",
             thisRegion: "local",
         },
         vite: {
-            host: "https://survev-improved.netlify.app",
-            port: 443,
+            host: "0.0.0.0",
+            port: 3000,
         },
         regions: {},
         proxies: {},
