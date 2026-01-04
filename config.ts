@@ -20,7 +20,7 @@ export function getConfig(isProduction: boolean, dir: string) {
         gameServer: {
             host: "0.0.0.0",
             port: 8001,
-            apiServerUrl: "https://survev-improved-api.onrender.com",
+            apiServerUrl: "https://api.render.com/deploy/srv-d5d70eggjchc73dh918g?key=1KJf8VL4iY0",
             thisRegion: "local",
         },
         vite: {
