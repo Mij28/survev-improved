@@ -243,7 +243,7 @@ const mapDef: PartialMapDef = {
     gameMode: {
         maxPlayers: 80,
         perkMode: true,
-        perkModeRoles: ["last_survivr", "sniper", "healer", "demo", "assault", "tank"],
+        perkModeRoles: ["scout", "sniper", "healer", "demo", "assault", "tank"],
     },
 };
 
