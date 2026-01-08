@@ -324,7 +324,7 @@ export const Main: MapDef = {
                 weight: 0.055,
             },
             { name: "m249", count: 1, weight: 0.06 },
-            { name: "m79", count: 1, weight: 0.08 },
+            { name: "m79", count: 1, weight: 0.1 },
             { name: "m134", count: 1, weight: 0.06 },
             { name: "ak47", count: 1, weight: 4 },
             { name: "scar", count: 1, weight: 0.27 },
